@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-job-table-tutorial/static/css/main.5d55cd70.chunk.css",
+    "main.js": "/react-job-table-tutorial/static/js/main.da4cac7a.chunk.js",
+    "main.js.map": "/react-job-table-tutorial/static/js/main.da4cac7a.chunk.js.map",
+    "runtime-main.js": "/react-job-table-tutorial/static/js/runtime-main.2496507c.js",
+    "runtime-main.js.map": "/react-job-table-tutorial/static/js/runtime-main.2496507c.js.map",
+    "static/js/2.31107cce.chunk.js": "/react-job-table-tutorial/static/js/2.31107cce.chunk.js",
+    "static/js/2.31107cce.chunk.js.map": "/react-job-table-tutorial/static/js/2.31107cce.chunk.js.map",
+    "index.html": "/react-job-table-tutorial/index.html",
+    "static/css/main.5d55cd70.chunk.css.map": "/react-job-table-tutorial/static/css/main.5d55cd70.chunk.css.map",
+    "static/js/2.31107cce.chunk.js.LICENSE.txt": "/react-job-table-tutorial/static/js/2.31107cce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2496507c.js",
+    "static/js/2.31107cce.chunk.js",
+    "static/css/main.5d55cd70.chunk.css",
+    "static/js/main.da4cac7a.chunk.js"
+  ]
+}
